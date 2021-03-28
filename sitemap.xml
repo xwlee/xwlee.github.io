@@ -3,6 +3,7 @@
 <url> <loc>https://xwlee.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xwlee.github.io/setup-new-mac-mini-m-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/introduction-to-defence-against-the-dark-arts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/fantastic-beasts-and-where-to-find-them</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/curses-counter-curses-and-more</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -10,6 +11,8 @@
 <url> <loc>https://xwlee.github.io/about</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/tags/dark-arts</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/tags/highlight</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xwlee.github.io/tags/m-1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://xwlee.github.io/tags/mac-mini</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/tags/novel</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://xwlee.github.io/tags/tutorial</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
