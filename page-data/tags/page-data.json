@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx",
     "path": "/tags",
-    "result": {"data":{"allPost":{"group":[{"fieldValue":"M1","totalCount":1},{"fieldValue":"Mac Mini","totalCount":1},{"fieldValue":"NodeJS","totalCount":1},{"fieldValue":"TypeScript","totalCount":1},{"fieldValue":"global","totalCount":1}]}},"pageContext":{}},
+    "result": {"data":{"allPost":{"group":[{"fieldValue":"AWS","totalCount":1},{"fieldValue":"CDK","totalCount":1},{"fieldValue":"Elasticsearch","totalCount":1},{"fieldValue":"M1","totalCount":1},{"fieldValue":"Mac Mini","totalCount":1},{"fieldValue":"NodeJS","totalCount":1},{"fieldValue":"TypeScript","totalCount":2},{"fieldValue":"global","totalCount":1}]}},"pageContext":{}},
     "staticQueryHashes": ["2744905544","3090400250","318001574"]}
