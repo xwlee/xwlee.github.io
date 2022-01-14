@@ -1,5 +1,0 @@
-{
-    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
-    "path": "/tags/mac-mini",
-    "result": {"data":{"allPost":{"nodes":[{"slug":"/setup-new-mac-mini-m-1","title":"Setup New Mac Mini M1","date":"28.03.2021","excerpt":"Recently, I just brought a new Mac Mini with the M1 chip. Thought it would be nice to make a post about how I set up my development machine…","timeToRead":1,"description":null,"tags":[{"name":"Mac Mini","slug":"mac-mini"},{"name":"M1","slug":"m-1"}]}]}},"pageContext":{"slug":"mac-mini","name":"Mac Mini","formatString":"DD.MM.YYYY"}},
-    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
